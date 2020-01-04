@@ -1,3 +1,3 @@
 # dim-api
 
-https://dimapi.docs.apiary.i
+https://dimapi.docs.apiary.io
